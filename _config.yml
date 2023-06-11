@@ -1,5 +1,5 @@
 title: Compiler Optimization
-description: Demo website for the ICML 2023 paper: Learning Compiler Pass Orders using Coreset and Normalized Value Prediction.
+description: "Demo website for the ICML 2023 paper: Learning Compiler Pass Orders using Coreset and Normalized Value Prediction."
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman

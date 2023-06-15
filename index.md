@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 ---
 
 In the [paper](https://arxiv.org/abs/2301.05104), we demonstrated a simple yet effective pipeline for pass ordering for program size reduction. To achieve this, we first identify a small set (termed coreset) of pass sequences that generally optimize the size of most programs. Then, a policy is learned to pick the optimal sequences by predicting the normalized values of the pass sequences in the coreset. 

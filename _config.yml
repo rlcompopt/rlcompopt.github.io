@@ -3,3 +3,15 @@ description: "Demo website for the ICML 2023 paper: Learning Compiler Pass Order
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+authors:
+  youwei:
+    name: Youwei Liang
+    display_name: Youwei Liang*
+    email: liangyouwei1@gmail.com
+    web: https://youweiliang.github.io/
+    github: youweiliang
+  kevin:
+    name: Kevin Stone
+    display_name: Kevin Stone*
+    email: kevinleestone@meta.com
+    web: https://www.linkedin.com/in/kevin-stone-51171270

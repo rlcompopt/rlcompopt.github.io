@@ -1,7 +1,7 @@
 ---
 layout: index
 ---
-[[Paper link]](https://arxiv.org/abs/2301.05104) [[Slides link]](data/slides.pdf) Code will be released soon! Stay tuned!
+[[Paper link]](https://openreview.net/pdf?id=DwEU2zXeHG) [[Slides link]](data/slides.pdf) [[Code link]](https://github.com/facebookresearch/RLCompOpt) [[ICML link]](https://icml.cc/virtual/2023/poster/23931)
 
 We proposed a simple yet effective pipeline for pass ordering for program size reduction. 
 - Key ideas
@@ -21,4 +21,3 @@ The policy can be as simple as a multi-layer perceptron (MLP) that leverages the
 
 ![Pipeline](images/pipeline.png)
 
-Our code for the paper is going to be hosted on [https://github.com/facebookresearch/RLCompOpt](https://github.com/facebookresearch/RLCompOpt).
